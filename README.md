@@ -63,23 +63,23 @@ print(classification_report1)
 lr.predict([[1,80,1,90,1,1,90,1,0,85,1,85]])  
 
 ## Output:
-HEAD
+# HEAD
 ![HEAD](https://github.com/user-attachments/assets/a9452526-c279-4bf0-8773-82216a9aee0a) 
-COPY
+# COPY
 ![COPY](https://github.com/user-attachments/assets/803939e2-3489-4dd9-9723-d537ea46541a)  
 ![Screenshot 2024-11-10 212604](https://github.com/user-attachments/assets/f2241f84-ec0f-401e-8578-b9fed5cefd60)  
-FIT TRANSFORM
+# FIT TRANSFORM
 ![FIT TRANSFORM](https://github.com/user-attachments/assets/f01b85cb-e183-4596-b6de-565f0a20e9e4)  
-LOGISTIC REGRESSION
+# LOGISTIC REGRESSION
 ![Screenshot 2024-11-10 212314](https://github.com/user-attachments/assets/3391dcf6-39b1-4497-8aa2-f789319c5ba6)
 ![Screenshot 2024-11-10 212258](https://github.com/user-attachments/assets/bf00eb14-2eae-4f51-8c5d-ac45bca36472)  
-ACCURACY SCORE
+# ACCURACY SCORE
 ![Screenshot 2024-11-10 212240](https://github.com/user-attachments/assets/c48f372d-2343-4b95-bc3b-d5912ef2490d)  
-CONFUSION MATRIX
+# CONFUSION MATRIX
 ![Screenshot 2024-11-10 212219](https://github.com/user-attachments/assets/b5a19887-64a6-4993-bf3c-9d8560c6bc56)   
-CLASSFICATION REPORT
+# CLASSFICATION REPORT
 ![Screenshot 2024-11-10 212202](https://github.com/user-attachments/assets/de06118f-3726-408a-802c-bdf19d22363e)   
-PREDICTION
+# PREDICTION
 ![Screenshot 2024-11-10 212144](https://github.com/user-attachments/assets/20419204-a461-43f2-af2b-bc8fc9bba659)   
 ## Result:
 Thus the program to implement the the Logistic Regression Model to Predict the Placement Status of Student is written and verified using python programming.
