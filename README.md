@@ -21,6 +21,7 @@ Developed by: LOGESH B
 RegisterNumber: 24900577 
 */
 ```
+```.py
 import pandas as pd  
 data=pd.read_csv(r"Placement_Data.csv")  
 data.head()  
@@ -61,7 +62,7 @@ from sklearn.metrics import classification_report
 classification_report1=classification_report(y_test,y_pred)  
 print(classification_report1)  
 lr.predict([[1,80,1,90,1,1,90,1,0,85,1,85]])  
-
+```
 ## Output:
 # HEAD
 ![HEAD](https://github.com/user-attachments/assets/a9452526-c279-4bf0-8773-82216a9aee0a) 
